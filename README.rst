@@ -7,6 +7,9 @@ Eventually, on a clean pull somewhere, add a script that reads all .ipynb and so
 Selected Examples
 -----------------
 
+**5/8/14**
+   - Fiber 1 `BSA binding H20 (NO COATING)<http://nbviewer.ipython.org/github/hugadams/FiberData/blob/master/2014/5_8_characterization_E1inh20/Analysis/Fiber1/bsa_nocoating/bsa_nocoating.ipynb>`_
+
 **5/29/14** 
    - Fiber 2 `4:1 mM MT:CT Overnight (0.06,0.08 BSA binding Activation)`_
 
