@@ -21,5 +21,5 @@ Selected Examples
    - Fiber 1 (Done last)
 	- `CTPeg pure coating <http://nbviewer.ipython.org/urls/raw.github.com/hugadams/FiberData/master/2014/7_9_14_NEWSILANE/Analysis/Fiber1/ctpeg/ctpeg.ipynb>`_
 	- `Long Water/MES/PBS Rinse <http://nbviewer.ipython.org/github/hugadams/FiberData/blob/master/2014/7_9_14_NEWSILANE/Analysis/Fiber1/nextdayrinse/nextday_rinses/nextday_rinses.ipynb>`_
-	- `Activation and BSA **(Very similar to non-specific binding on CTPEG fiber 3)** <http://nbviewer.ipython.org/github/hugadams/FiberData/blob/master/2014/7_9_14_NEWSILANE/Analysis/Fiber1/activation_bsa/activation_bsa.ipynb>`_
+	- `Activation (erratic) and BSA **(Very similar to non-specific binding on CTPEG fiber 3)** <http://nbviewer.ipython.org/github/hugadams/FiberData/blob/master/2014/7_9_14_NEWSILANE/Analysis/Fiber1/activation_bsa/activation_bsa.ipynb>`_
 
