@@ -26,3 +26,7 @@ Selected Examples
 	- `Long Water/MES/PBS Rinse <http://nbviewer.ipython.org/github/hugadams/FiberData/blob/master/2014/7_9_14_NEWSILANE/Analysis/Fiber1/nextdayrinse/nextday_rinses/nextday_rinses.ipynb>`_
 	- `Activation (erratic) and BSA **(Very similar to non-specific binding on CTPEG fiber 3)** <http://nbviewer.ipython.org/github/hugadams/FiberData/blob/master/2014/7_9_14_NEWSILANE/Analysis/Fiber1/activation_bsa/activation_bsa.ipynb>`_
 
+**7/22/14**
+   - `Full NPSAM decomposition <http://nbviewer.ipython.org/github/hugadams/FiberData/blob/master/2014/7_22_14_BATCHVIARIETY_SATURATION_APTMS/Analysis/Fiber1/NPSAM/NPSAM.ipynb>`_
+
+
